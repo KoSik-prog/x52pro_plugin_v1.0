@@ -8,3 +8,5 @@ You will find 2 versions of the plugin in the directory. The plugin labeled "RLG
 Have fun!!!
 
 In case of problems or ideas, write to me: kosik84@gmail.com
+
+![alt text](http://url/to/img.png)
