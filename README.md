@@ -5,8 +5,8 @@ Saitek X52 PRO plugin for Microsoft Flight Simulator 2020
 Your X52's LEDs will run dynamically with this plugin.
 
 There are two modes:
-- if the airplane is equipped with a retractable landing gear -> toggle switch 2 represents the landing gear state
-- if the airplane is not equipped with a retractable landing gear -> toggle switch represents taxi lights
+- if the airplane is equipped with a retractable landing gear -> green labels
+- if the airplane is not equipped with a retractable landing gear -> blue labels
 
 Have fun!!!
 
