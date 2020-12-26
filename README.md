@@ -10,6 +10,6 @@ There are two modes:
 
 Have fun!!!
 
-In case of problems or ideas, write to me: kosik84@gmail.com
+Problems or ideas, write to me: kosik84@gmail.com
 
 ![alt text](x52_map.jpg)
