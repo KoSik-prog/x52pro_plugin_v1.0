@@ -8,6 +8,7 @@ There are two modes:
 - if the airplane is equipped with a retractable landing gear -> green labels
 - if the airplane is not equipped with a retractable landing gear -> blue labels
 
+
 You can use the autostart.bat file to run the plugin together with MSFS2020, but you have to edit it beforehand and insert the game path:
 - open msfs shortcut
 - copy Target
