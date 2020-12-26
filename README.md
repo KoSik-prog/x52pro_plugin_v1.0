@@ -12,4 +12,4 @@ Have fun!!!
 
 Problems or ideas, write to me: kosik84@gmail.com
 
-![alt text](x52_map.jpg)
+![alt text](x52plugin_map.jpg)
