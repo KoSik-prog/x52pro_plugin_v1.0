@@ -9,4 +9,4 @@ Have fun!!!
 
 In case of problems or ideas, write to me: kosik84@gmail.com
 
-![alt text](http://url/to/img.png)
+![alt text](x52_map.jpg)
