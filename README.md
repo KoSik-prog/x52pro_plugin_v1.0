@@ -3,7 +3,10 @@
 Saitek X52 PRO plugin for Microsoft Flight Simulator 2020
 
 Your X52's LEDs will run dynamically with this plugin.
-You will find 2 versions of the plugin in the directory. The plugin labeled "RLG" is for aircraft with Retractable Landing Gear
+
+There are two modes:
+- if the airplane is equipped with a retractable landing gear, toggle swich 2 represents the landing gear state
+- if the airplane is not equipped with a retractable landing gear, toggle switch represents taxi lights
 
 Have fun!!!
 
