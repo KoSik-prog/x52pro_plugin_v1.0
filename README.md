@@ -10,9 +10,9 @@ There are two modes:
 
 
 You can use the autostart.bat file to run the plugin together with MSFS2020, but you have to edit it beforehand and insert the game path:
-- open msfs shortcut
+- open msfs shortcut properties
 - copy Target
-- open autostart.bat file
+- edit autostart.bat file
 - paste your target path into a file
 - create shortcut with autostart.bat target
 
