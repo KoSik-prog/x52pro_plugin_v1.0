@@ -21,4 +21,6 @@ Have fun!!!
 Problems or ideas, write to me: kosik84@gmail.com
 
 ![alt text](x52plugin_map.jpg)
+
+AUTOSTART config
 ![alt text](autostart_config.jpg)
